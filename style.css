@@ -31,7 +31,7 @@ h4 {
 
 img {
   display: block;
-  width: 100%;
+  width: 100%;  /*Ensured that the image takes the full width of its container and maintains its aspect ratio*/
   height: auto;
 }
 
